@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is nutatio
 #### I am a crack head
-(https://cdn.discordapp.com/attachments/861244155093975071/861244461916094494/ngan-pham-lil-ants-anim-test-v06.gif)
+![crack](https://cdn.discordapp.com/attachments/861244155093975071/861244461916094494/ngan-pham-lil-ants-anim-test-v06.gif)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
